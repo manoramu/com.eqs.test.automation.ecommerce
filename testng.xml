@@ -8,7 +8,7 @@
 			<class name="runner.TestRunner" />
 		</classes>
 	</test>
-	<test name="IETest">
+	<test name="FireFoxTest">
 		<parameter name="browser" value="Firefox" />
 		<classes>
 			<class name="runner.TestRunner" />
